@@ -26,5 +26,5 @@ It includes following topics:\
   23. Abstract Class & Method\
   24. Interfaces in Java\
   25. Arraylist Concept in Java\
-  26. Exception Handling Intoduction\
+  26. Exception Handling Introduction\
 
